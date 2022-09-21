@@ -15,7 +15,8 @@ The left and right buttons allow you to change the inventory space you are curre
  - "Edit inventory slot" allows you to change the item in that inventory slot. A list of item IDs can be found at the [Official Terraria Wiki](https://terraria.wiki.gg/wiki/Item_IDs).
  - "Edit quantity" allows you to edit the quantity of the item.
  - "Edit modifier" allows you to edit the modifier of the item in the inventory slot. A list of modifier IDs can be found at the [Official Terraria Wiki](https://terraria.wiki.gg/wiki/Prefix_IDs).
- ** Note: ** Some modifier IDs will not work with certain items. Please check that the modifier can be applied to the item you are editing.
+
+ **Note:** Some modifier IDs will not work with certain items. Please check that the modifier can be applied to the item you are editing.
 
  ## Constraints
 
