@@ -1,6 +1,6 @@
 # terraedit
 
-This is an inventory editor for Terraria on the Nintendo 3DS. This tool allows you to edit in items as well as their modifiers and quantity.
+This is an inventory editor for Terraria on the Nintendo 3DS. This tool allows you to edit items in your inventory as well as their modifiers and quantity.
 
 ## Compiling
 
@@ -22,6 +22,6 @@ The left and right buttons allow you to change the inventory space you are curre
 
  This tool can only edit players with "test" as their name currently.
 
- This tool can not edit armor or accessory slots currently.
+ This tool cannot edit armor or accessory slots currently.
 
- This tool can not edit player attributes such as health or mana currently.
+ This tool cannot edit player attributes such as health or mana currently.
